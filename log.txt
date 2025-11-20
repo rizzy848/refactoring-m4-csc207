@@ -1,4 +1,5 @@
-6bb0686 (HEAD -> main, origin/main, origin/HEAD) completed Task 2.1
+f27ce3f (HEAD -> main, origin/main, origin/HEAD) completed Task 2.2
+6bb0686 completed Task 2.1
 31bbdbc completed task 1.2 and log.txt
 bbdc849 completed task 1.1 by doing some minor refactoring like encapsucalting the instance vaariable, making constants final , adding javdoc documentations
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
